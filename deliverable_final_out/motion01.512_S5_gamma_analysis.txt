@@ -1,0 +1,7 @@
+motion01.512 - Gamma Analizi:
+  gamma=0.5: karanlik alanlar aydinlanir, detay artar.
+  gamma=1.0: degisim yok (referans).
+  gamma=1.5: orta tonlar koyulasir, parlak alanlar baskilanir.
+  gamma=2.0: daha cok koyulastirma; parlak ayrintilar kaybolabilir.
+  gamma=2.5: asiri koyulastirma; sadece cok parlak bolgeler belirgin kalir.
+  Kullanim: <1 aydinlatma; >1 parlakligi baskilama/koyulastirma.
